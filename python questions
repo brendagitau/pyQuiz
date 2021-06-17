@@ -1,0 +1,38 @@
+Instructions:
+
+Create a new folder called pyquiz in your Python Class folder.
+Create a module python_test.py inside pyquiz folder.
+Write code to answer the following questions inside the python_test.py module.
+Once done push your module with answers to your github repo.
+Add your name together with the link to your file python_test.py on github in the spreadsheet shared with you on slack. 
+
+Questions:
+
+Given list x = [100,110,120,130,140,150], use list comprehension to create another list containing each number in the list multiplied by 5.  
+
+Write a function named divisible_by_three that accepts a number n and prints all numbers from 1 to n that are divisible by 3. 
+
+Given the nested list x = [[1,2],[3,4],[5,6]], write a function that flattens the list and returns it as [1,2,3,4,5,6]
+
+Write a Python function named smallest that accepts a list of unsorted integers and returns the smallest number in the list. Example:
+smallest([3,6,8,2,4,1,5,7]) returns 1
+
+Write a function that accepts list x below and uses a set to remove the duplicate letters and returns the list without duplicates
+x = ['a','b','a','e','d','b','c','e','f','g','h']
+
+Write a function named divisible_by_seven that; using the range function and a for loop returns a list containing all the numbers between 100 and 200 that are divisible by 7.
+
+Given this list of students containing age and name,  students = [{"age": 19, "name": "Eunice"}, {"age": 21, "name": "Agnes"}, {"age": 18, "name": "Teresa"}, {"age": 22, "name": "Asha"}], write a function that greets each student and tells them the year they were born. e.g Hello Eunice, you were born in the year 2002.
+
+
+
+
+
+
+
+Create a Class Rectangle with the following Attributes and Methods
+Attributes: The class has attributes width and length that represent the two sides of a rectangle 
+Methods:
+ Add a method named area which returns the area (A) of the rectangle using the formula A=width*length
+Add a method named perimeter which returns the perimeter (P) of the rectangle using the formula P=2(length+width)
+
