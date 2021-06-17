@@ -56,7 +56,7 @@ for mult in  x:
 
 
     def divisible_by_seven():
-        x=0
+        
         for t in range(100,200):
             if t%7==0:
                 print (t)
@@ -85,5 +85,5 @@ class Rectsangle:
         area= length*width
         return f" {area} is the area given length{length} and width {width}"
     def perimeter( self ,length,width):
-        perimeter= length+width+length+width
+        perimeter= 2(length+width)
         return f" {perimeter} is the area given length{length} and width {width}"    
